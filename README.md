@@ -1,2 +1,2 @@
 # comptabinet
-Simple accounting and patient records
+Simple accounting and appointments records
